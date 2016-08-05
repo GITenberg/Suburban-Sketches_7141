@@ -1,0 +1,33 @@
+_repo: Suburban-Sketches_7141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suburban life -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Mrs. Johnson -- Doorstep acquaintance -- A pedestrian tour -- By
+  horse-car to Boston -- A day's pleasure -- A romance of real life -- Scene -- Jubilee
+  days -- Some lessons from the school of morals -- Flitting.
+title: Suburban Sketches
+url: http://www.gutenberg.org/ebooks/7141
